@@ -1,0 +1,11 @@
+div .contactCard {
+    box-sizing: content-box;
+    border: medium solid;
+    background-color: royalblue;
+    height: 200px;
+    width: 25%;
+}
+
+.card-header {
+    background-color: darkgrey;
+}
